@@ -59,6 +59,7 @@ The app helped bring issues to the attention of authorized bodies or municipalit
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+<img src="https://github-profile-trophy.vercel.app/?username=EveningLantern" width="100%">
 
 ---
 
