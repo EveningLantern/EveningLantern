@@ -30,7 +30,9 @@
 ---
 
 ## 💡 Hackathon Experiences
-- 🎉 Participated in **[Hackathon 1 Name]**, where I [describe achievement].
+- 🌍 Google Solution Challenge:
+Developed a social media application to address problems faced by residents of a locality.
+The app helped bring issues to the attention of authorized bodies or municipalities for swift action and repair.
 - 🏆 Achieved [specific achievement] at **[Hackathon 2 Name]**.
 
 ---
