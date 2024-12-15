@@ -1,4 +1,4 @@
-<img  src="https://readme-typing-svg.herokuapp.com?color=39FF14&lines=👋+Hi..!+I+am+Alapan+Pradhan" height= "70" width="100%">
+<img  src="https://readme-typing-svg.herokuapp.com?color=39FF14&lines=👋+Hi..!+I+am+Sayandeep+Saha" height= "70" width="100%">
 <img align="right" height="182" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"  />
 
 
