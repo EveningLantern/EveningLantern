@@ -38,17 +38,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight_duo&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EveningLantern&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveningLantern&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EveningLantern&theme=tokyonight_duo&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [YourEmail@example.com]
+- 📧 Email: sayandeep123saha@gmail.com
 - 🌐 Portfolio: [Your Portfolio Link]
 
 ---
-
-Let me know if you'd like me to adjust anything or include additional sections like certifications or specific projects!
