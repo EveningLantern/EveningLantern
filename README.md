@@ -44,6 +44,21 @@ The app helped bring issues to the attention of authorized bodies or municipalit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveningLantern&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EveningLantern&theme=tokyonight_duo&hide_border=true" alt="GitHub streak stats" />
 </p>
+---
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
